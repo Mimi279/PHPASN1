@@ -38,7 +38,7 @@ use FG\ASN1\Universal\ObjectDescriptor;
 use LogicException;
 
 /**
- * Class Object is the base class for all concrete ASN.1 objects.
+ * Class ASNObject is the base class for all concrete ASN.1 objects.
  */
 abstract class ASNObject implements Parsable
 {
